@@ -22,3 +22,6 @@ Fakultas      : Ilmu Komputer
 
 Nama          : Rizki Bambang Saputra
 Status        : Confirm
+
+Nama          : Rizal Ajie Wiyono
+Status        : Confirm
