@@ -17,8 +17,20 @@ NIM           : 20160803094
 Mata Kuliah   : Infrastruktur dan Manajemen Layanan IT
 Fakultas      : Ilmu Komputer
 
+<<<<<<< HEAD
 
 =============== Konfirmasi Nama dan Data Anggota Kelompok ===============
 
 Nama          : Rizki Bambang Saputra
 Status        : Confirm
+=======
+==================== Status Anggota ====================
+
+Nama          : Rizal Ajie Wiyono
+NIM           : 20160803092
+Status        : Confirmed
+
+Nama          : Rizki Bambang Saputra
+NIM           : 20160803094
+Status        : Confirmed
+>>>>>>> master
